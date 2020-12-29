@@ -1,2 +1,2 @@
-# Quasar-Vue-PWA-Demo
-quasar, vue, vue-router, pwa
+# Quasar-Demo-PWA
+Quasar, Vue.js, Vuex, Vue Router
